@@ -124,52 +124,45 @@ body{
     white: 55% ;
     padding: 5%;
 }
-#last{
-    background-color:  #deb887;
-    display: flex;
-    height: 150px;
-    width: 900px;
-   border-radius: 4px;
-   margin-top: 50px;
-    
-     margin-left: 370px;
 
-}
-.last-one{
-background-color: gainsboro;
-margin-left: 50px;
 
-margin-top: 50px;
-margin-bottom: 200px;
-border-radius: 5px;
-height: 50px;
-width: 600px;
 
-padding: 5px 50px 5px 5px;
-}
-.last-two{
-    background-color: tomato;
-   
-    padding: 5px 10px 25px 10px;
-    margin-top:50px ;
-    margin-bottom: 40px;
-    border-radius: 5px;
-    box-sizing: border-box;
-    margin-right: 60px;
-}
+
+
+
+
 footer{
     background-color: black;
     font-size: 700;
-    color: #fff;
+    color: tomato;
     border-radius: 5px;
+
    
     
 }
 .footer{
     margin-top: 150px;
 }
-
-
+#last{
+    background-color:#deb887 ;
+    height: 150px;
+    border-radius: 3px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#last-one{
+    background-color: antiquewhite;
+    margin-top: 60px;
+    padding: 8px 34px;
+    border-radius: 5px;
+    border: 0ex;
+}
+#second-one{
+background-color: tomato;
+padding: 9px 20px;
+border-radius: 5px;
+border:0px;
+}
 
 
 
