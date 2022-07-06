@@ -74,6 +74,15 @@ body{
     border-top: 2px solid tomato;
     border-bottom: 2px solid tomato;
 }
+.underline{
+    padding-bottom: 0%;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-bottom: 2px solid gray;
+}
+
+
+
 .roll{
     display: flex;
     justify-content: space-between;
@@ -115,11 +124,50 @@ body{
     white: 55% ;
     padding: 5%;
 }
-.fourth-pic{
-    border: 1px solid;
-    border-radius: 1`%;
-}
+#last{
+    background-color:  #deb887;
+    display: flex;
+    height: 150px;
+    width: 900px;
+   border-radius: 4px;
+   margin-top: 50px;
+    
+     margin-left: 370px;
 
+}
+.last-one{
+background-color: gainsboro;
+margin-left: 50px;
+
+margin-top: 50px;
+margin-bottom: 200px;
+border-radius: 5px;
+height: 50px;
+width: 600px;
+
+padding: 5px 50px 5px 5px;
+}
+.last-two{
+    background-color: tomato;
+   
+    padding: 5px 10px 25px 10px;
+    margin-top:50px ;
+    margin-bottom: 40px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    margin-right: 60px;
+}
+footer{
+    background-color: black;
+    font-size: 700;
+    color: #fff;
+    border-radius: 5px;
+   
+    
+}
+.footer{
+    margin-top: 150px;
+}
 
 
 
